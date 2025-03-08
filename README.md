@@ -1,2 +1,2 @@
 # vo-baseline
-The basline model without data augmentation
+Baseline deep learning-based visual odometry model using KITTI dataset
